@@ -1,0 +1,5 @@
+config.py
+smotra_checker.py
+smotra_sender.py
+src/
+main.db
